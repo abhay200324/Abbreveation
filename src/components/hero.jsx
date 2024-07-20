@@ -85,10 +85,10 @@ const Hero = () => {
 
         <div className="border-2 p-4 rounded-lg border-deeppurple relative md:mt-0 dark:border-purple">
           <div className="flex gap-2 items-center">
-            <img src={nate} alt="" className="h-12 w-12 rounded-full" />
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.axios.com%2F2021%2F07%2F09%2Fgiant-pandas-endangered&psig=AOvVaw1i1cpYYZAXMhU8K-kERhmt&ust=1721579141586000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJiqmpyEtocDFQAAAAAdAAAAABAE" alt="" className="h-12 w-12 rounded-full" />
             <div>
               <a
-                href="https://twitter.com/Nateemerson/status/1567566265719599105?s=20&t=QAOQu1feHo07evNBHFvAIQ"
+                href="\"
                 className="text-deeppurple dark:text-purple">
                 <p className="font-bold">Nate (DojoJOJO)</p>
                 <p className="text-sm">@Nateemerson</p>
@@ -124,10 +124,10 @@ const Hero = () => {
       <section className=" justify-center lg:gap-10 mt-10 items-center flex flex-col lg:flex-row">
         <div className="border-2 p-4 rounded-lg border-deeppurple  relative md:mt-0 dark:border-purple lg:w-96">
           <div className="flex gap-2 items-center">
-            <img src={emy} alt="" className="h-12 w-12 rounded-full" />
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.axios.com%2F2021%2F07%2F09%2Fgiant-pandas-endangered&psig=AOvVaw1i1cpYYZAXMhU8K-kERhmt&ust=1721579141586000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJiqmpyEtocDFQAAAAAdAAAAABAE" alt="" className="h-12 w-12 rounded-full" />
             <div>
               <a
-                href="https://twitter.com/njong_emy/status/1567561277135781888?s=20&t=QAOQu1feHo07evNBHFvAIQ"
+                href="\"
                 className="text-deeppurple dark:text-purple">
                 <p className="font-bold">Emy 🦄⛅</p>
                 <p className="text-sm">@njong_emy</p>
